@@ -1,18 +1,18 @@
 # Recruiter Contacts
 
-This repository contains a personal list of recruiters the owner has interacted with over the past ~1.5 years (starting from March 2025).
+Personal list of recruiters and talent contacts extracted from Gmail (past 18 months).
 
-The CSV file `recruiter-contacts.csv` is intended for sharing with friends who are job hunting. It includes only real human recruiters with whom there was meaningful outreach or conversation — automated job alerts, newsletters, and pure mass mailings have been excluded.
+## recruiters.csv
 
-## Columns
-- **Name**: Recruiter's name
-- **Email**: Contact email
-- **Company**: Company or agency they represent
-- **Last Contact Date**: Most recent interaction date
-- **Notes**: Brief summary of the discussion or role
-- **Source Thread Subject**: Original email subject for reference
+Columns:
+- **name**: Contact name
+- **email**: Email address (deduplicated)
+- **company**: Company / agency
+- **role**: Title or role if mentioned
+- **interaction**: Short summary of engagement (replied, ignored, scheduled, etc.)
+- **last_contact_date**: Most recent email date (YYYY-MM-DD)
+- **notes**: Additional context on the opportunity or thread
 
-Feel free to use this as a starting point for your own outreach. Quality over quantity — these are people who actually engaged.
+Generated automatically by scanning Gmail for direct recruiter / talent acquisition outreach. Pure job-alert newsletters and generic notifications were excluded.
 
----
-*Compiled for sharing. Update as new conversations happen.*
+Last updated: 2026-09-22
