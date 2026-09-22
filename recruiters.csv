@@ -1,20 +1,23 @@
 name,email,company,role,interaction,last_contact_date,notes
-Rijo Reji,rreji@metropolis.io,Metropolis,Recruiter / Talent,outreach and multiple follow-ups; no reply from user,2026-09-20,Senior Software Engineer - Platform role; last note saying timing may not be right
-Harshit Mehra,harshit.mehra@sans.com,SANS,Senior Technical Recruiter,outbound cold outreach; ignored,2026-09-11,Mainframe Developer role for Infosys/Verizon
-Vaishali Pal,vaishali.pal@compunnel.com,Compunnel,Recruiter,outbound outreach; ignored,2026-09-09,AI Systems Engineer Opportunity | LangGraph & Agentic AI
-Arslan Khan,arslan@coffeespace.com,CoffeeSpace,Recruiter / Coordinator,interview prep support for Rune Technologies,2026-09-07,Congrats on Stage 1 with Rune Technologies + Interview Prep Notes
-Emily Bose,ebose@runetech.co,Rune Technologies,Recruiting Partner,multiple follow-ups; ignored by user,2026-09-07,Backend Software Engineer opportunity; Series A startup
-Hazim Mohamad,hazim.mohamad@coffeespace.com,CoffeeSpace,Coordinator,role closed notification,2026-09-11,Cloud Infrastructure Engineer role at Rune Technologies closed
-Brooke Piercy,brooke@mach-scale.com,P-1 AI / Mach Scale,Early stage engineering lead / Recruiter,replied and discussed; citizenship requirement noted,2026-08-24,"Software Role at P-1 AI; user replied after travel, then citizenship question"
-Eric Cheng,eric@business.jobright.ai,Jobright / NeoCognition,Recruiter,multiple follow-ups; ignored,2026-08-06,Member of Technical Staff [Platform] at NeoCognition
-Hanjing Zhang,hanjingz@uber.com,Uber,Recruiter,replied and scheduled call,2026-07-27,Staff Engineer - Core Infrastructure; user booked time
-Kristen Francis,kfrancis@chewy.com,Chewy,Recruiter / Talent,replied; declined downleveled role,2026-07-27,Software Engineer III downleveled to II; user looking for Senior/Staff
-Mike Shearer,mike.shearer@vantaca.com,Vantaca,Recruiter / Hiring,interview request; status unknown,2026-07-17,"Senior Software Engineer, Application Platform"
-Catherine Perez,cathperez@linkedin.com,LinkedIn,LinkedIn Partner / Recruiter,extensive back-and-forth; scheduled technical phone screen,2026-07-16,Staff Software Engineer - Systems Infrastructure; multiple reschedules due to illness
-Kenzie Mabrey,kenzie@find-doordash.com,DoorDash,Talent Partner,replied interested; shared role details,2026-07-09,Technical Lead role; user requested more info and availability
-Alex Duarte,alex.duarte@thetradedesk.com,The Trade Desk,Recruiter / Talent,application related; status unknown,2026-07-08,Regarding application to The Trade Desk
-Ariel Marcus,ariel.marcus@datarobot.com,DataRobot,Recruiter,interview scheduled reminder,2026-06-24,Interview reminder
-Amrita Singh,amrita.singh@serko.com,Serko,Recruiter / Talent,meeting accepted,2026-06-24,Meeting for role at Serko
-Emily Mucken,emily_mucken@docker.com,Docker,Recruiter,interview related; canceled event,2026-06-16,Docker Interview for Staff role
-Usman Khan,ukhan@crusoe.ai,Crusoe,Recruiter,virtual confirmation,2026-06-16,Senior Software Engineer interview confirmation
-Tarun Phaugat,tarunp@serko.com,Serko,Recruiter,meeting related,2026-06-19,Meeting Nivesh for role at Serko
+Rijo Reji,rreji@metropolis.io,Metropolis,Senior Recruiter Talent Acquisition,ignored,2026-09-20,Direct outreach for Senior Software Engineer - Platform role; multiple follow-ups including final note; no reply from user
+Emily Bose,ebose@runetech.co,Rune Technologies,Recruiting Partner,ignored,2026-09-07,Outreach for Backend Software Engineer; two follow-ups after no response
+Vaishali Pal,vaishali.pal@compunnel.com,Compunnel,Senior Recruiter,ignored,2026-09-09,Outreach for AI Systems Engineer role focused on LangGraph & Agentic AI
+Harshit Mehra,harshit.mehra@sans.com,SANS,Senior Technical Recruiter,ignored,2026-09-11,Outreach for Mainframe Developer role (Infosys/Verizon hybrid)
+Anthony Erondu,inmail-hit-reply@linkedin.com,LinkedIn InMail (GPU Cloud),Recruiter,replied and interested,2026-09-11,LinkedIn InMail for Staff Platform Infrastructure GPU Cloud role up to $300K; user replied expressing interest and Seattle location; Calendly issue noted
+Arslan Khan,arslan@coffeespace.com,CoffeeSpace (for Rune Technologies),,congrats on stage 1,2026-09-07,Congrats on Stage 1 interview with Rune Technologies for Cloud Infrastructure Engineer; interview prep notes provided
+Hanjing Zhang,hanjingz@uber.com,Uber,Principal Technical Recruiter,replied and scheduled,2026-07-27,Outreach after application for Staff Engineer - Core Infrastructure; user replied interested and booked time; also from Talent@uber.com
+Kristen Francis,kfrancis@chewy.com,Chewy,Recruiter,replied and declined,2026-07-27,Update that role downleveled to mid-level; user replied looking only for Senior/Staff and cancelled meeting
+Mike Shearer,mike.shearer@vantaca.com,Vantaca,,interview request,2026-07-17,Request to coordinate interview for Senior Software Engineer Application Platform; LinkedIn connection mentioned
+Eric Cheng,eric@business.jobright.ai,Jobright / NeoCognition,,ignored,2026-08-06,Outreach for Member of Technical Staff [Platform] at NeoCognition; multiple follow-ups
+Kenzie Mabrey,kenzie@find-doordash.com,DoorDash,Talent Partner,replied,2026-07-09,Outreach after LinkedIn profile stood out; user replied
+Alex Duarte,alex.duarte@thetradedesk.com,The Trade Desk,Sr Talent Acquisition Partner,interview process,2026-06-30,Multiple interactions including scheduling career trajectory conversation and live code interview support
+Emily Mucken,emily_mucken@docker.com,Docker,Recruiting,interview scheduling,2026-06-23,Scheduled and rescheduled interviews for Staff Software Engineer Agentic Platform; active coordination
+Ariel Marcus,ariel.marcus@datarobot.com,DataRobot,,interview scheduling,2026-06-23,Scheduled video hiring manager interview for Staff Software Engineer; user requested reschedule due to illness
+Amrita Singh,amrita.singh@serko.com,Serko,,extensive scheduling interaction,2026-07-16,Multiple emails coordinating Bar Raiser and Final interviews; benefits discussion; active back-and-forth
+Tarun Phaugat,tarunp@serko.com,Serko,VP Engineering,interview coordination,2026-06-19,Involved in scheduling final interview sessions with Amrita
+Alina Rizvi,arizvi@crusoe.ai,Crusoe,,offer related,2026-06-18,Sent congratulations on offer from Crusoe with visual offer letter details
+Marisa Santacruz,smarisa@google.com,Google,,next steps,2026-06-11,Email regarding next steps with Google after application/interview process
+Peter Turn,peter.turn@thetradedesk.com,The Trade Desk,,interview scheduling,2026-06-16,Confirmed and rescheduled remote live coding interview
+Alexander Farr,alexander.farr@charterrole.us,Charter Role,,ignored,2026-06-18,Follow-up on quick question about companies interested or roles
+Carly Montague,carly@gradial.com,Gradial,,interview update,2026-06-10,Update on interview process with Gradial
+Phillip Smith,hit-reply@linkedin.com,LinkedIn InMail,,ignored,2026-09-14,InMail offering direct hiring manager connections and pay increase claims

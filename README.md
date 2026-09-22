@@ -1,18 +1,23 @@
 # Recruiter Contacts
 
-Personal list of recruiters and talent contacts extracted from Gmail (past 18 months).
+This repository contains a curated CSV of recruiter and talent acquisition contacts extracted from Gmail over the past 18 months.
 
-## recruiters.csv
+## File: recruiters.csv
 
 Columns:
-- **name**: Contact name
+- **name**: Recruiter's full name
 - **email**: Email address (deduplicated)
-- **company**: Company / agency
-- **role**: Title or role if mentioned
-- **interaction**: Short summary of engagement (replied, ignored, scheduled, etc.)
-- **last_contact_date**: Most recent email date (YYYY-MM-DD)
-- **notes**: Additional context on the opportunity or thread
+- **company**: Company or organization
+- **role**: Title if mentioned (e.g., Senior Recruiter, Talent Partner)
+- **interaction**: Short summary of engagement (e.g., ignored, replied and scheduled, interview process)
+- **last_contact_date**: Date of the most recent email in the thread
+- **notes**: Additional context on the opportunity or outcome
 
-Generated automatically by scanning Gmail for direct recruiter / talent acquisition outreach. Pure job-alert newsletters and generic notifications were excluded.
+## Notes
+- Excludes pure job-alert newsletters and generic system notifications.
+- Includes direct outreach even if ignored or unreplied.
+- Data sourced from Gmail search (newer_than:18m) for terms related to recruiters, talent acquisition, sourcers, and hiring managers.
+- Deduplicated by email address.
+- Generated on 2026-09-22.
 
-Last updated: 2026-09-22
+For personal job search tracking and sharing with trusted contacts.
